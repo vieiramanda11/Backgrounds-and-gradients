@@ -9,6 +9,6 @@ Built With:
 -> HTML5 
 -> CSS3
 
-Live version: https://raw.githack.com/vieiramanda11/Backgrounds-and-gradients/developer/index.html
+Live version: https://vieiramanda11.github.io/Backgrounds-and-gradients/
 
 Author: @vieiramanda11
